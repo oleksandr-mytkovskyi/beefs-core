@@ -1,0 +1,14 @@
+{
+  "name": "beefs-game",
+  "version": "1.0.3",
+  "description": "beefs game core package",
+  "main": "./core/core.js",
+  "scripts": {
+    "test": "jest ./core/core.test.js"
+  },
+  "author": "roijons19",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
